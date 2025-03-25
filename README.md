@@ -103,6 +103,7 @@ Besides, ffmpeg is also needed:
 
 ```bash
   apt-get install ffmpeg
+  conda install -c nvidia cuda-compiler
 ```
 
 ### 📥 Download Pretrained Models
